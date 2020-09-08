@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="11">
+    <list key="modules" value0="CollegeProject::org.eclipse.jst.jee.server:CollegeProject::jst.web::2.5" value1="Exam1::org.eclipse.jst.jee.server:Exam1::jst.web::2.5" value2="OneToOne::org.eclipse.jst.jee.server:OneToOne::jst.web::2.5" value3="OneToMany::org.eclipse.jst.jee.server:OneToMany::jst.web::2.5" value4="Wizard::org.eclipse.jst.jee.server:Wizard::jst.web::2.5" value5="Complaint::org.eclipse.jst.jee.server:Complaint::jst.web::2.5" value6="LeaveManagementProject::org.eclipse.jst.jee.server:LeaveManagementProject::jst.web::2.5"/>
+  </server>
+</servers>

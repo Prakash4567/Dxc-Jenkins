@@ -1,0 +1,14 @@
+127.0.0.1 - - [19/Aug/2020:15:13:54 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:15:13:56 +0530] "GET /Complaint/WEB-INF/classes/com/dxc/complaint/ComplaintCrud.java HTTP/1.1" 404 1047
+127.0.0.1 - - [19/Aug/2020:15:54:26 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:15:54:27 +0530] "GET /Complaint/registercomplaint.jsp HTTP/1.1" 200 1323
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:15:54:48 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 500 2838
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:15:59:48 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 500 2838
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:00:31 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 500 2838
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:03:15 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 500 2838
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:03:16 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 500 2838
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:42:13 +0530] "GET /Complaint/registercomplaint.jsp HTTP/1.1" 200 1323
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:42:21 +0530] "GET /Complaint/registercomplaint.jsp HTTP/1.1" 200 1323
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:42:21 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:42:51 +0530] "POST /Complaint/confirmcomplaint.jsp HTTP/1.1" 200 167
+0:0:0:0:0:0:0:1 - - [19/Aug/2020:16:43:06 +0530] "GET /Complaint/showcomplaint.jsp HTTP/1.1" 200 712

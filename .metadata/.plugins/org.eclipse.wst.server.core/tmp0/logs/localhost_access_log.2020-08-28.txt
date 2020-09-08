@@ -1,0 +1,5 @@
+127.0.0.1 - - [28/Aug/2020:14:42:47 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [28/Aug/2020:14:43:46 +0530] "GET /LeaveManagementProject/WEB-INF/classes/dxc/LeaveManagementProject/ConnectionHelper.java HTTP/1.1" 404 1047
+127.0.0.1 - - [28/Aug/2020:14:43:46 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Aug/2020:15:47:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Aug/2020:15:48:29 +0530] "GET / HTTP/1.1" 404 1074

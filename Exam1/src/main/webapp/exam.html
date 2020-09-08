@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<link type="text/css" rel="stylesheet" href = "modelling.css"/>
+<script type="text/javascript" language="javascript" src="js/main.js">
+</script>
+</head>
+<body  onload = "load()">
+
+<p class = "title" >
+Welcome to online Quiz
+</p>
+<div class = "MainForm" align = "center" >
+<form name = "ExamFrom"  id = "inputForm1" >
+<p id = "Question">
+This is the question
+</p>
+<input type="radio" name="OptionR" id="Opt1" onClick ="AnswerChoosed(1)"/>
+<label id="Option0" name = "Name1">1st Option</label><br />
+<input type="radio" name="OptionR" id="Opt2" onClick ="AnswerChoosed(2)"/>
+<label id="Option1" >2nd Option</label><br />
+<input type="radio" name="OptionR" id="Opt3" onClick ="AnswerChoosed(3)"/>
+<label id="Option2" >3rd Option</label><br />
+<input type="radio" name="OptionR" id="Opt4" onClick ="AnswerChoosed(4)"/>
+<label id="Option3" >4 th Option</label><br />
+<br />
+<input type="button" value="Next" onClick = "NextQuestion()">
+
+</form>
+</div>
+</body>
+</html>
