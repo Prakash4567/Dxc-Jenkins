@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\sdevapujyula\Downloads\CmsNewProject3\CmsNewProject3\src\main\java\com\dxc\cms\Customer.java"/>
 			<item value="C:\Training3\OneToMany"/>
 			<item value="C:\Training3\OneToOne"/>
 			<item value="C:\Training3\Exam1\src\main\webapp\js\main.js"/>
@@ -28,13 +29,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.dxc.cms"/>
 		</list>
 		<list key="groupId">
-			<item value="dxc"/>
 		</list>
 		<list key="artifactId">
-			<item value="cms"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -1,0 +1,41 @@
+Week 1 	""Object Oriented Programming with Java
+Java Data types, Wrapper classes 
+Eclipse (Overview, debugging technique)
+Collections  (Arrays, List, Map, set, iterator, Hashing)
+Java - IO Overview
+Exceptions (Complie & Run time )
+Custom Exceptions""""
+Generics
+
+SCM Overview,   Guidelines and Best Practices,    SCM Integration with Eclipse,    Code checkin/checkout,   Pull/Push Request,   Demo of Common Tools like SVN, CVS, Git, GitHub""	In addition to the topics in Column B please add an overview on Agile Practices, Automation Testing Selenium,  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Week 2	""Maven:
+POM,   Environment Setup,  Build Profiles,    Repositories,   Build & Test Projects,   External Dependencies,   Build Automation,    Deployment Automation,   How to use in Eclipse?
+
+Java 8 features (Stream, Lamda, Concurrancy, Collections ) with examples 
+Thread Programming,  Executor Framework
+RDBMS and SQL query basics , JDBC in Detail with mySQL/PostgressSQL
+Core Java Best Practices, Java Design Patterns ( Singleton/Factory)
+One Simple Project using Java and database (Ex: Library Management)
+Git Repositery Overview
+""	Git is covered in week1. hence it can be remvoed
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Week 3	""Web application, N-tier  and MVC architecture overview, Servlets & JSP with TomCat Server,Jboss,  Weblogic
+Deploying files in Tomcat,Jboss, Weblogic
+JSTL and Custom Tags, STRUTS , 
+Spring Core with STS, Maven
+Spring MVC
+Unit Testing with Junit
+Spring Boot
+SOA""	Spring MVC covered in week7, Spring boot and SOA moved to webservices section - week4
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Week 4	""SOA, Loosely coupled architecture, SOAP webservices, RESTful  Web Services with JSON, XML
+SOAP UI or PostMan
+MicroServices, SpringBoot, SpringCloud overview, 
+Mockito Test Cases for Spring
+Hibernate ,  Hibernate with mySQL (Basics, Entity Mapping, HQL, etc.,)
+Spring with Hibernate integration""	
+------------------------------------------------------------------------------------------------------------------------------------------------
+Week 5	""Authentication and Authorization Overview,Oauth 2.0 and Access Tokens, 
+Basics of Mongo DB with CRUD Operations
+JMS and Kafka - Basics
